@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="0; url=https://saqeef-shabbir.vercel.app/">
+</head>
+<body>
+    <a href="https://saqeef-shabbir.vercel.app/">View my portfolio</a>
+</body>
+</html>
